@@ -17,6 +17,11 @@ public static class DiagonalMazeTask
         return (a - 3)/(b - 2);
     }
 
+    private static int Steping(int a, int b)
+    {
+        ;
+    }
+
     public static void MoveOut(Robot robot, int width, int height)
     {
         while (!robot.Finished)
