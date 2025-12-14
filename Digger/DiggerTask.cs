@@ -213,4 +213,4 @@ public class Monster : ICreature
     {
         return "Monster.png";
     }
-}
+} 
