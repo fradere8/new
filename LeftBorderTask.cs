@@ -20,3 +20,4 @@ public class LeftBorderTask
 		return GetLeftBorderIndex(phrases, prefix, left, m);
 	}
 }
+ 
