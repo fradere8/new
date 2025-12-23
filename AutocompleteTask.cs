@@ -6,7 +6,7 @@ using NUnit.Framework.Legacy;
 
 namespace Autocomplete;
 
-internal class AutocompleteTask
+internal class AutocompleteTask 
 { 
 	public static string FindFirstByPrefix(IReadOnlyList<string> phrases, string prefix)
 	{
