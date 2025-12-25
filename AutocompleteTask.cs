@@ -4,7 +4,7 @@ using System.Linq;
 using NUnit.Framework;
 using NUnit.Framework.Legacy;
 
-namespace Autocomplete;
+namespace Autocomplete; 
 
 internal class AutocompleteTask 
 { 
